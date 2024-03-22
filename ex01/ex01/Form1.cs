@@ -21,6 +21,7 @@ namespace ex01
         {
             MessageBox.Show("hello");
             MessageBox.Show("안녕하세요");
+            MessageBox.Show("Test");
         }
     }
 }
